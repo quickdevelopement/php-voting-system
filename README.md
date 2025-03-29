@@ -11,7 +11,7 @@
 
 ## Code
 
-`
+```
 CREATE DATABASE election_system_db;
 
 USE election_system_db;
@@ -30,4 +30,4 @@ CREATE TABLE candidates (
     name VARCHAR(100) NOT NULL,
     votes INT DEFAULT 0
 );
-`
+```
